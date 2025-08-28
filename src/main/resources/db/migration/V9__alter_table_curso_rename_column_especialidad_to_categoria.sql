@@ -1,0 +1,1 @@
+ALTER TABLE curso RENAME COLUMN especialidad TO categoria;

@@ -1,0 +1,1 @@
+ALTER TABLE topico ADD CONSTRAINT unique_titulo UNIQUE (titulo);

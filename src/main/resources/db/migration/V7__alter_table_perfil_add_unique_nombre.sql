@@ -1,0 +1,1 @@
+ALTER TABLE perfil ADD CONSTRAINT unique_name UNIQUE (nombre);
